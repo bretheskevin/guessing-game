@@ -5,7 +5,7 @@ data division.
 working-storage section.
 01 random-number pic 99.
 01 user-guess pic 99.
-01 time-guessed pic 99 value 0.
+01 time-guessed pic 9999999 value 0.
 01 correct-message pic x(40) value "Congratulations, you guessed the number!".
 01 higher-message pic x(37) value "The number is higher than your guess.".
 01 lower-message pic x(36) value "The number is lower than your guess.".
