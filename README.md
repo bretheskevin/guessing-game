@@ -3,7 +3,7 @@
 ## Linux
 
 ```shell
-sudo apt-get install gnucobol-3
+sudo apt-get install gnucobol3
 ```
 
 # Compiling
